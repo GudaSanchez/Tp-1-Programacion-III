@@ -4,6 +4,28 @@ body {
     padding: 0;
    }
    
+   header {
+    background-color: #041cec;
+    color: #fdfdf9;
+    padding: 1em;
+    text-align: center;
+   }
+   
+   header nav ul {
+    list-style: none;
+    margin: 10px 0;
+    padding: 0;
+   }
+   
+   header nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+   }
+   
+   header nav a {
+    color: #d2e70e;
+    text-decoration: none;
+   }
    
    #info {
     background-size: cover;
